@@ -3,7 +3,7 @@ berikut desain awal yang telah saya buat di figma
 
 [desain figma.zip](https://github.com/user-attachments/files/18405718/desain.figma.zip)
 
-bisa dilihat bahan alurnya dari pengenalan awal aplikasi logon, register dan mulaimasukan data nama lalu keluar gambar hasil cek kodam.
+bisa dilihat bahan alurnya dari pengenalan awal aplikasi login, register, dan mulai masukan data, nama lalu keluar gambar hasil cek kodam.
 
 dari desain awal saya lakukan sedikit perubahan pada tampilan di android studio seperti video berikut:
 
